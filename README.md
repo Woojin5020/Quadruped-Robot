@@ -27,7 +27,7 @@
 |---|---|
 | ![STM32](https://img.shields.io/badge/STM32-0076D6?style=flat&logo=STMicroelectronics&logoColor=white) | 4족 보행 로봇 메인 MCU |
 | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) | 보행 알고리즘 및 제어 로직 구현 |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | **로봇 보행 시뮬레이션 및 변수 효과 검증** |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 로봇 보행 시뮬레이션 및 변수 효과 검증 |
 | ![I2C](https://img.shields.io/badge/I2C-000000?style=flat&logo=internet-explorer&logoColor=white) | PCA9685 16채널 PWM 드라이버 제어 |
 
 
@@ -43,7 +43,7 @@
     보행에 필요한 모든 서보모터의 각도를 **실시간으로 제어**합니다.
 - **시뮬레이션 기반 변수 검증**  
   - 파이썬 시뮬레이션을 통해  
-    로봇의 보행 변수(속도, 보폭, 주기 등)가 실제 움직임에  
+    **로봇의 보행 변수(속도, 보폭, 주기 등)**가 실제 움직임에  
     어떤 영향을 주는지 직접 확인하였습니다.
 ---
 
