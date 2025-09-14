@@ -73,5 +73,3 @@
 ### [우 이동](https://drive.google.com/file/d/1yQKBVOaO4YPHyf00HGkSakdziHmvaDI0/view?usp=sharing)
 ![alt text](gif/Right_Move.gif)
 
-### [시뮬레이션]()
-![alt text]()
