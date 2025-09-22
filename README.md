@@ -49,7 +49,7 @@
 
 ## 🖼 시스템 구성도
 
-
+![image/구성도 이미지.jpg](image/구성도%20이미지.jpg)
 ---
 
 ## **소스 코드**
@@ -73,3 +73,11 @@
 ### [우 이동](https://drive.google.com/file/d/1yQKBVOaO4YPHyf00HGkSakdziHmvaDI0/view?usp=sharing)
 ![alt text](gif/Right_Move.gif)
 
+### [시뮬레이션_전진](https://drive.google.com/file/d/1HZt_TObTcKbMdISfTRditi58DKzvqbiY/view?usp=sharing)
+![alt text](gif/Straight_Simul.gif)
+
+### [시뮬레이션_후진](https://drive.google.com/file/d/1LnhFEd_Xjx05ZimlWcwkzKiw22vxL323/view?usp=sharing)
+![alt text](gif/Back_Simul.gif)
+
+### [시뮬레이션_회전](https://drive.google.com/file/d/16oX-1kpdu3OMaDYZPiLPynQYnGS3Siz-/view?usp=sharing)
+![alt text](gif/Turn_Simul.gif)
