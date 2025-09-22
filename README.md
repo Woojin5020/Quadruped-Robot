@@ -81,3 +81,9 @@
 
 ### [시뮬레이션_회전](https://drive.google.com/file/d/16oX-1kpdu3OMaDYZPiLPynQYnGS3Siz-/view?usp=sharing)
 ![alt text](gif/Turn_Simul.gif)
+
+
+## **참고 문헌**
+
+### [참고 영상](https://youtu.be/XBYq_FJbdTk?si=Gbbtj9yYs3oxuCF6)
+### [참고 소스 코드](https://github.com/Road-Balance/SpotMicroJetson)
